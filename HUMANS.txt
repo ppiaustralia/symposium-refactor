@@ -1,0 +1,34 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Ricky Felix -- https://linktr.ee/rickyfelix019
+    Mathias Bynens -- @mathias
+    Hans Christian Reinl -- @drublic
+    Christian Oliff -- @coliff
+
+# PAST TEAM MEMBERS:
+
+    
+
+# THANKS
+
+    Yudhi Hartawan
+    Ibnnurais Yani
+
+# TECHNOLOGY COLOPHON
+
+    MERN: Mongodb, Express, React, Nodejs
+    UI: @MUI (formerly: Material-UI), react-icons, styled-components
+    CSS: [???]
+    Linter: AirBnB ESLint, Prettier,
+    Unit Testing: Mocha,
+    Static Testing: UUID, Unique-Names-Generator
+    Authentication & Authorization: Passport, Passport-JWT, Passport-Oauth2
+    Hosted: Heroku
+    Database: MongoDB
+
+    Main Feature: nodemailer, 
+
+    Source: https://github.com/h5bp/html5boilerplate.com

@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Unit Testing folder using Mocha",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
