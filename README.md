@@ -7,5 +7,5 @@ This is a website create to provide all of our material and contents related to 
   
 By using REST API, Our website will be able to send GET/POST Requests. To check the extensive API that our website uses, check our [latest documentation]()
   
-Thank you to everyone [who contributed]() to this project.
+Thank you to everyone [who contributed](HUMANS.txt) to this project.
   
