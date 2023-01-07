@@ -96,19 +96,17 @@ Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
+- [Nextjs](https://www.mongodb.com/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Cypress](https://www.cypress.io/) - UI Testing Environment
+- [daisy.ui](https://daisyui.com/) - Tailwind CSS plugin
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [Ricky Felix](https://www.linkedin.com/in/rickyfelix19/) - Refactor
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [our previous team contributors](https://symposium-international-5ac17636dbaa4ac.webflow.io/humans-txt/2022) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- SI 2022 Development Team (refer above)
