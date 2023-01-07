@@ -1,7 +1,7 @@
 {
   "name": "project-impact",
   "version": "1.0.0",
-  "description": "PPIA Career Page",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,35 +10,21 @@
     "type": "git",
     "url": "git+https://github.com/ppiaustralia/project-impact.git"
   },
-  "author": "Ricky Felix",
-  "license": "GPL-3.0-or-later",
+  "author": "PPIA",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ppiaustralia/project-impact/issues"
   },
   "homepage": "https://github.com/ppiaustralia/project-impact#readme",
-  "script": {
-    "lint": "eslint --fix main.js",
-    "format": "prettier -w .",
-    "client-install": "npm install --prefix client",
-    "client": "npm start --prefix client",
-    "frontend": "concurrently \"cd frontend && npm start\"",
-    "backend": "concurrently \"cd backend && npm run server",
-    "dev": "concurrently \"npm run frontend\" \"npm run backend\"",
-    "mocha": "concurrently \"cd testing && npm run test\""
-  },
   "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-airbnb": "^18.2.1",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-import": "^2.25.2",
-    "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-react": "^7.26.1",
-    "eslint-plugin-react-hooks": "^4.2.0",
-    "prettier": "^2.4.1"
-  },
-  "dependencies": {
-    "concurrently": "^6.3.0",
-    "dotenv": "^10.0.0"
+    "eslint": "^8.31.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.2"
   }
 }
