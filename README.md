@@ -34,7 +34,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This repository is created to refactor everything from Webflow into Nextjs.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
