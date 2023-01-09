@@ -5,12 +5,11 @@ export default function kipi() {
     <div>
       
       <section>
-
-      <div>
-      <h1>Konferensi International Pelajar Indonesia</h1>
-      <h3>2022</h3>
-      <p>KIPI is a biennial academic conference hosted by PPI Austalia and has for years provided Indonesian students and researchers, particularly those studying in Australia, with a platform to share their research and discuss burning issues facing Indonesia.</p>
-      </div>
+        <div>
+          <h1>Konferensi International Pelajar Indonesia</h1>
+          <h3>2022</h3>
+          <p>KIPI is a biennial academic conference hosted by PPI Austalia and has for years provided Indonesian students and researchers, particularly those studying in Australia, with a platform to share their research and discuss burning issues facing Indonesia.</p>
+        </div>
       </section>
       
       <section>
