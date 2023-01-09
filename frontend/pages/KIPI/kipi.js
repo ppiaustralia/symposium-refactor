@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 export default function kipi() {
   return (
@@ -6,14 +6,34 @@ export default function kipi() {
       
       <section>
         <div>
-          <h1>Konferensi International Pelajar Indonesia</h1>
-          <h3>2022</h3>
-          <p>KIPI is a biennial academic conference hosted by PPI Austalia and has for years provided Indonesian students and researchers, particularly those studying in Australia, with a platform to share their research and discuss burning issues facing Indonesia.</p>
+          <div>
+            <h1>Konferensi International Pelajar Indonesia</h1>
+            <h3>2022</h3>
+            <p>KIPI is a biennial academic conference hosted by PPI Austalia and has for years provided Indonesian students and researchers, particularly those studying in Australia, with a platform to share their research and discuss burning issues facing Indonesia.</p>
+          </div>
+          <div>
+            <button>KIPI 2022 EVENT RUNDOWN</button>
+            <button>KIPI 2022 EVENT SUMMARY</button>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div>
+          <h4>KIPI 2022 is sponsored and supported by</h4>
+          <div>
+            {/*  
+            <img></img>
+            <img></img>
+            <img></img>
+            */}
+          </div>
         </div>
       </section>
       
       <section>
         <div>
+          {/* <img></img> */}
           <h2>Call for Abstracts and Posters</h2>
           <p>
             To participate in KIPI as a presenter, you need to register and submit an abstract —a short summary of research paper on the topic you have chosen. All abstracts will be reviewed and presented at the KIPI 2022 Conference. However, if the prospective presenters could not join the live presentation or want to submit a poster, they are required to submit an academic poster.
@@ -24,17 +44,26 @@ export default function kipi() {
 
       <section>
         <div>
+          {/* <img></img> */}
           <h2>What Are The Requirements?</h2>
           <p>KIPI is open to all Indonesian students who are studying within and outside of Australia. The primary requirement is to be an Indonesian citizen and to be enrolled in an institution of higher learning (undergraduate / postgraduate / vocational students) at the time of the abstract deadline. You can find our template and guideline below</p>
           <div>
             <button>READ MORE</button>
             <button>POSTER GUIDELINES</button>
           </div>
+        </div>
+      </section>
+
+      <section>
+        <div>
+            {/* <Carousel /> */}
+        </div>
       </section>
 
       <section>
         <div>
           <p>timeline</p>
+          {/* <img></img> */}
         </div>
       </section>
 
@@ -56,7 +85,6 @@ export default function kipi() {
         </div>
       </section>
 
-        </div>
     </div>
   )
 }
